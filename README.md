@@ -3,4 +3,5 @@
 ## Installation
 To play this quiz-game, you will need to have Python-3 installed in your system
 ## Output in Terminal
+#### Check this gif:
 ![ezgif com-animated-gif-maker](https://github.com/a-bit-git/Guess-The-State/assets/138126472/5ecbbf77-a1b9-4bbf-8c6b-71aaae8a794c)
